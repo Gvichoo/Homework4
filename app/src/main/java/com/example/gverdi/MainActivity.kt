@@ -67,7 +67,7 @@ class MainActivity : AppCompatActivity() {
     }
     private fun validateAge(age : EditText):Boolean{
         if (age.text.isEmpty() || age.text.toString().toInt() <= 0) {
-            Toast.makeText(this, "Age should be a positive number.", Toast.LENGTH_LONG).show()
+            Toast.makeText(this, "Age  should be a positive number.", Toast.LENGTH_LONG).show()
             return false
         }
         return true
