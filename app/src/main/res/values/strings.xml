@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GVERDI</string>
+    <string name="profile_info">Profile Info</string>
+    <string name="username">Username:</string>
+    <string name="email">Email:</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="age">Age</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+    <string name="emaill">Email:</string>
+    <string name="usernamee">Username:</string>
+    <string name="fullnamee">FullName</string>
+    <string name="agee">Age:</string>
+    <string name="againn">Again</string>
+
+</resources>
